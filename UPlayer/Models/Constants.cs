@@ -2,9 +2,9 @@ namespace MauiTubePlayer.Models;
 
 public static class Constants
 {
-    public static string ApplicationName = "Tube Player";
-    public static string EmailAddress = @"tubeplayer@xgenoapps.com";
-    public static string ApplicationId = "XGENO.TubePlayer.App";
+    public static string ApplicationName = "U Player";
+    public static string EmailAddress = @"uplayer@xgenoapps.com";
+    public static string ApplicationId = "XGENO.UPlayer.App";
     public static string ApiServiceURL = @"https://youtube.googleapis.com/youtube/v3/";
     public static string ApiKey = @"AIzaSyAT7UDu2LYMDWHPP09sD7Rq6G-lUSX4CA8";
 
