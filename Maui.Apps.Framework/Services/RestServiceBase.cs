@@ -1,7 +1,3 @@
-
-
-
-
 namespace Maui.Apps.Framework.Services;
 
 public class RestServiceBase
